@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang='is'>
+<head>
+    <meta charset='UTF-8'>
+    <title>Verkefni 2.1</title>
+    <link rel="stylesheet" href="screen.css" type="text/css" media="screen, projection" />
+
+    </head>
+    <body>
+         <h1><div class="experiment">Box Modelið </div></h1><style>div.experiment{color: rgb(0, 0, 0);}</style>
+        
+         <h1><div class="baseline">
+            <h1><div class="blankeitt"> Box Model class</div></h1> 
+            <style>div.baseline{color: rgb(255, 0, 0);}</style>
+           </div> 
+       
+        <h1><div class="base">
+            <h1><div class="blank">Box Model 2 </div></h1>
+        </div></h1><style>div.base{color: rgb(38, 0, 255);}</style>
+    </div>
+    </body>
