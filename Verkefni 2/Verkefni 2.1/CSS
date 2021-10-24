@@ -1,0 +1,65 @@
+*{
+    font-size: 40px;
+    
+}   
+    
+    
+    div.experiment {
+       display: flex;
+        background-color: rgb(255, 255, 255);
+       width:1411px;
+       border:10px solid rgb(40, 109, 0);
+       height:40px;
+      
+    margin:0;
+    padding:5px 0;
+        
+    }
+    div.baseline{
+        display: flex;
+        width:85%;
+        border:10px solid red;
+       height: 150px;  
+       margin-top: 5%;
+    }
+    
+    .blankeitt{
+         display: flex;
+        width: 750px;
+        height: 40px;
+        padding:5px 0;
+        border: 10px solid rgb(40, 109, 0);
+        margin:10;
+        position: absolute;
+        margin-left:3%;
+        margin-top:1%;
+    }
+
+
+.base{
+    display: flex;
+    width:85%;
+    border:10px solid red;
+   height: 150px;
+    
+    margin-top: 9%;
+    
+    
+}
+.blank{
+    display: flex;
+    width: 750px;
+    height: 40px;
+    padding:5px 0;
+    border: 10px  solid rgb(0, 19, 128);
+    border-style: dashed;
+    margin:10;
+    margin-left:-45%;
+    margin-top:6%;
+    left:50%;
+    top:50%;
+    position: absolute;
+    
+ 
+    /*box-sizing: border-box;*/
+}
