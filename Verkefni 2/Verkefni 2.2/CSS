@@ -1,0 +1,105 @@
+
+
+
+.experiment{
+    display: flex;
+    width: 750px;
+    height: 40px;
+    padding:5px 0;
+    border: 3px  solid rgb(0, 143, 19);
+    border-style: dashed;
+    margin-left:1%;
+    margin-top:-2%;
+    padding:1em;
+}
+
+
+
+.class{
+    display: flex;
+    width: 750px;
+    height: 40px;
+    padding:5px 0;
+    border: 3px  solid rgb(0, 143, 19);
+    border-style: dashed;
+    margin-left:1%;
+    margin-top:-2%;
+    padding:1em;
+}
+
+
+.ert{
+    display: flex;
+    width: 750px;
+    height: 40px;
+    padding:5px 0;
+    border: 3px  solid rgb(0, 143, 19);
+    border-style: dashed;
+    margin-left:1%;
+    margin-top:-2%;
+    padding:1em;
+}
+
+.ex{
+    display: flex;
+    margin-left:110%;
+
+}
+.ext{
+    display: flex;
+    margin-left:110%;
+    
+}
+.exti{
+    display: flex;
+    margin-left:110%;
+    
+}
+.extir{
+    display: flex;
+    margin-left:110%;
+    
+}
+.extirt{
+    display: flex;
+    margin-left:110%;
+    
+}
+.extim{
+    display: flex;
+    margin-left:110%;
+    
+}
+
+.star{
+width: 100px;
+float:right;
+}
+
+.starwarss{
+    width: 100px;
+    
+}
+
+.start{
+    width: 100px;
+    
+}
+
+.starwa{
+    width: 100px;
+    
+}
+
+.starwar{
+    width: 100px;
+    
+}
+
+.starwars{
+    width: 100px;
+    
+}
+
+
+
