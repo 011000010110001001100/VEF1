@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang='is'>
+<head>
+    <meta charset='UTF-8'>
+    <title>Verkefni 2.2</title>
+    <link rel="stylesheet" href="screen.css" type="text/css" media="screen, projection" />
+    <style>
+        body{
+            margin:0;
+        }
+    .container{
+        width:100vw;
+        height:100vw;
+    }
+
+    </style>
+    </head>
+    <body>
+        
+        <div class="container"></div>
+        <h1>Verkefni 2.2</h1>
+        <hr>
+        <h2>Þetta er listi með display:block,<i>padding:lem og border: 3px dashed green</i></h2>
+       <div class="er" ></div>
+        <li>&nbsp;&nbsp;Texti bla bla</li><div class="experiment"></div>
+       
+        <div class="ex">, </div>
+        <div class="ext">, </div>
+        <div class="exti">, </div>
+       
+        <li>&nbsp;&nbsp;Texti bla bla</li><div class="class"></div>
+       
+        <div class="extir">, </div>
+        <div class="extirt">, </div>
+        <div class="extiim">, </div>
+      
+        <li>&nbsp;&nbsp;Texti bla bla</li><div class="ert"></div>
+
+        <h2>Þetta er listi með display:inline,<i>padding:lem, margin: og border: 3px dashed blue</i></h2>
+
+        <div class="star">Texti bla bla </div></h1><style>.star{color: rgb(255, 0, 0);}</style>
+        <div class="starwarss">Texti bla bla </div></h1><style>.starwarss{color: rgb(255, 0, 0);}</style>
+        <div class="start">Texti bla bla </div></h1><style>.start{color: rgb(255, 0, 0);}</style>
+        <div class="starwa">Texti bla bla </div></h1><style>.starwa{color: rgb(255, 0, 0);}</style>
+        <div class="starwar">Texti bla bla </div></h1><style>.starwar{color: rgb(255, 0, 0);}</style>
+        <div class="starwars">Texti bla bla </div></h1><style>.starwars{color: rgb(255, 0, 0);}</style>
+            
