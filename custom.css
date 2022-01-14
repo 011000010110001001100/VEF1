@@ -1,0 +1,187 @@
+
+.button {
+    border-radius: 100px;
+  }
+  
+
+  .section {
+    padding: 8rem 0 7rem;
+    text-align: center;
+  }
+  .section-heading,
+  .section-description {
+    margin-bottom: 1.2rem;
+  }
+  
+
+  .starwars {
+    position: relative;
+  }
+  .wars {
+    position: relative;
+    max-width: 80%;
+    margin: 3rem auto -12rem;
+  }
+  .wars + .wars {
+    display: none;
+  }
+  
+
+  .values {
+    background-image: url('wp4991362.png');
+    background-size: cover;
+    color: #fff;
+    padding-bottom: 5rem;
+  }
+  .value-multiplier {
+    margin-bottom: .5rem;
+    color: #11DFC7;
+  }
+  .value-heading {
+    margin-bottom: .3rem;
+  }
+  .value-description {
+    opacity: .8;
+    font-weight: 300;
+  }
+  .topnav {
+    background: #ffffff; 
+  }
+  .topnav {
+    background: #ffffff; 
+    }
+  .get-help {
+    border-bottom: 1px solid #ddd;
+  }
+  .categories {
+    background-image: url('wp4991362.png');
+    background-size: cover;
+    color: #fff;
+  }
+  .categories .section-description { 
+    margin-bottom: 4rem;
+  }
+  .topmenu {
+    display: block;
+    padding: 0 1em;
+    margin: 0;
+    list-style: none; 
+    }
+    .topmenu li {
+    border: 0;
+    border-bottom: 1px solid rgb(255, 255, 255); 
+    padding: 0;
+    margin:0;
+    }
+    .topmenu a {
+    display: block;     /* ath! */
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: .4em 1em; 
+    }
+    .topmenu a:hover,
+    .topmenu a:active,
+    .virkur {
+    color: black !important;
+    background-color: rgb(255, 255, 255);
+    }
+  
+  
+  @media (min-width: 550px) {
+    .section {
+      padding: 12rem 0 11rem;
+    }
+    .hero {
+      padding-bottom: 12rem;
+      text-align: left;
+      height: 165px;
+    }
+    .wars {
+      position: absolute;
+      top: -7rem;
+      right: 3rem;
+      max-height: 362px;
+      z-index: 3;
+    }
+    .wars + .wars {
+      top: -6rem;
+      display: block;
+      max-width: 73.8%;
+      right: 0;
+      z-index: 2;
+      max-height: 338px;
+    }
+    .hero-heading {
+      font-size: 2.4rem;
+    }
+  }
+  @media (min-width: 750px) {
+    .hero {
+      height: 190px;
+    }
+    .hero-heading {
+      font-size: 2.6rem;
+    }
+    .section {
+      padding: 14rem 0 15rem;
+    }
+    .hero {
+      padding: 16rem 0 14rem;
+    }
+    .section-description {
+      max-width: 60%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .wars {
+      top: -14rem;
+      right: 5rem;
+      max-height: 510px;
+    }
+    .wars + .wars {
+      top: -12rem;
+      max-height: 472px;
+    }
+    .categories {
+      padding: 15rem 0 8rem;
+    }
+  }
+  @media (min-width: 1000px) {
+    .section {
+      padding: 20rem 0 19rem;
+    }
+    .hero {
+      padding: 22rem 0;
+    }
+    .hero-heading {
+      font-size: 3.0rem;
+    }
+    .wars {
+      top: -16rem;
+      max-height: 615px;
+    }
+    .wars + .wars {
+      top: -14rem;
+      max-height: 570px;
+    }
+  }
+  @media screen and (min-width:48em){
+  
+    .topmenu {
+      display: flex;
+      flex-flow: row;
+      justify-content: center;
+    }
+    .topmenu li {
+      border: 0;
+      border-right: 1px solid rgb(255, 255, 255); 
+    }
+    .topmenu li:last-child {
+      border: 0;
+    }
+    .topmenu a {
+      padding: .3em 2em;
+    }
+   
+  }
